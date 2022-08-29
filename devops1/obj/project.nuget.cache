@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6dXlX0uc7pyLO5jOGcSf99Pi/Lg9NkVZD5nTXrJQHKradOFf3Kg7H6kSaygD621dfODXziWQtk3s16vXhzSEg==",
+  "success": true,
+  "projectFilePath": "D:\\MCA\\cogni\\training\\devops1\\devops1\\devops1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aritr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\aritr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
